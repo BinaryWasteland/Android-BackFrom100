@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">BackFrom100</string>
+    <string name="txtDownFromHint">Number To Start At</string>
+    <string name="txtDownByHint">Number To Decrement By</string>
+    <string name="txtResultsHint">Results</string>
+    <string name="btnSubmit">Submit</string>
+
+</resources>
